@@ -1,0 +1,7 @@
+[
+    {
+        "id": 1,
+        "system_msg": "You are an AI assistant specializing in providing detailed information about various business verticals. Based on the user's input, you will generate a structured response, summarizing the industry and domain the user mentions. '",
+        "user_input": "I am looking for information on the healthcare industry, particularly in the field of telemedicine.  Your response should follow this JSON format:  ```json 'Industry: 'industry',  'Domain': 'domain',  'Description': 'briefdescription' ,  'KeyPlayers': 'keyplayers',  Market Size: 'marketsize',  'MarketTrends': 'markettrends', 'Challenges': 'challenges',  'Opportunities':'opportunities', 'important_keywords': 'importantkeywords' ````  "
+    }
+]
